@@ -1,0 +1,13 @@
+.Cart-Conteiner{
+    display: flex;
+}
+
+.Cart-Img{
+    width: 25px;
+    height: 25px;
+    align-self: center;
+}
+.Cart-Number {
+    align-self: center;
+}
+

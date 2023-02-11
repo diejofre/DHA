@@ -1,0 +1,14 @@
+.nabvar-conteiner{
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(255, 0, 0);
+  padding: 8px;
+}
+
+.nabvar-button{
+  border: none;
+  background-color: rgb(255, 0, 0);
+  
+
+}
+

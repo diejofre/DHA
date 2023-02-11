@@ -1,0 +1,50 @@
+{
+    "iluminacion":[
+        {
+            "producto": "fresnel",
+            "descripcion": "Su diseño permite la construcción de lentes de gran apertura y una distancia focal corta sin el peso y volumen de material que se debería usar en una lente de diseño convencional.",
+            "precio": "$1.500 por jornada"
+        },
+        {
+            "producto": "Elipsoidal",
+            "descripcion": " La posición de la lámpara respecto del reflector varía, pero el centro de su filamento siempre coincide con un centro focal de la elipse. Generalmente son de revolución, lisos o facetados.",
+            "precio": "$2.000 por jornada"
+        }
+
+    ],
+    "sonido":[
+        {
+            "producto": "Consola Behringer Xenyx X1832 USB",
+            "descripcion": "18 Canales XLR Jack Mixer Analógica",
+            "precio": "$3.500 por jornada"
+        },
+        {
+            "producto": "Combo Sonido",
+            "descripcion": "Set Mackie Bafles Activos Thump15 + Consola Profx + Soportes",
+            "precio": "$10.000 por jornada"
+        }
+
+    ],
+    "estructura":[
+        {
+            "producto": "Escenario",
+            "descripcion": "Medidas: 10 mts X 5 mts X 1 mts.",
+            "precio": "$12.000 por jornada"
+        },
+        {
+            "producto": "truss",
+            "descripcion": "24 cm X 24 cm X 1 mts",
+            "precio": "$3.000 por jornada"
+        }
+
+    ]
+}
+
+
+
+
+
+
+
+
+
